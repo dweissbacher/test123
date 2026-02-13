@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Test1",
+    "description": "Testdescription 1",
+    "url": "https://raw.githubusercontent.com/dweissbacher/test123/refs/heads/main/test.csv"
+  },
+  {
+    "name": "Test2",
+    "description": "Testdescription 2",
+    "url": "https://raw.githubusercontent.com/dweissbacher/test123/refs/heads/main/test2.csv"
+  }
+]
